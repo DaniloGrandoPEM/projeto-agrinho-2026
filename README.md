@@ -1,5 +1,5 @@
 # projeto-agrinho-2026
 
-##agrinha
+## Agrinho
 
 https://danilograndopem.github.io/projeto-agrinho-2026/
